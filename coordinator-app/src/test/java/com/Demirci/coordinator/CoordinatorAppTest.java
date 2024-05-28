@@ -1,9 +1,23 @@
-package com.Divan.coordinator;
+package com.Demirci.coordinator;
 
 import static org.junit.Assert.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.Demirci.coordinator.Account;
+import com.Demirci.coordinator.CoordinatorApp;
+import com.Demirci.coordinator.Discussion;
+import com.Demirci.coordinator.DiscussionManager;
+import com.Demirci.coordinator.FileUtility;
+import com.Demirci.coordinator.Resource;
+import com.Demirci.coordinator.ResourceManager;
+import com.Demirci.coordinator.Session;
+import com.Demirci.coordinator.SessionManager;
+import com.Demirci.coordinator.StudyGroup;
+import com.Demirci.coordinator.User;
+import com.Demirci.coordinator.ViewGroups;
+
 import java.io.*;
 import java.util.Scanner;
 import java.util.List;

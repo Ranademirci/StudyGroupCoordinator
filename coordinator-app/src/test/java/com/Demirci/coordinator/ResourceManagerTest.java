@@ -1,4 +1,4 @@
-package com.Divan.coordinator;
+package com.Demirci.coordinator;
 
 import static org.junit.Assert.assertTrue;
 
@@ -10,6 +10,10 @@ import java.util.List;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.Demirci.coordinator.Resource;
+import com.Demirci.coordinator.ResourceManager;
+import com.Demirci.coordinator.StudyGroup;
 
 public class ResourceManagerTest {
 	

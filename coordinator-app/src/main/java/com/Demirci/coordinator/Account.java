@@ -12,7 +12,7 @@
  * @version 1.0.3
  * @since 2024-03-28
  */
-package com.Divan.coordinator;
+package com.Demirci.coordinator;
 
 import java.io.*;
 import java.util.ArrayList;

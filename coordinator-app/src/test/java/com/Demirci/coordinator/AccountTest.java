@@ -1,6 +1,9 @@
-package com.Divan.coordinator;
+package com.Demirci.coordinator;
 
 import org.junit.*;
+
+import com.Demirci.coordinator.Account;
+import com.Demirci.coordinator.User;
 
 import java.io.*;
 import java.util.List;

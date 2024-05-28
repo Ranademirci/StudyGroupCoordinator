@@ -1,4 +1,4 @@
-package com.Divan.coordinator;
+package com.Demirci.coordinator;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -11,6 +11,10 @@ import java.util.List;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.Demirci.coordinator.Discussion;
+import com.Demirci.coordinator.DiscussionManager;
+import com.Demirci.coordinator.StudyGroup;
 
 public class DiscussionManagerTest {
 	
